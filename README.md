@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kotame</h1>
 <h3 align="center">Aspiring Cloud & Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
+Email Me 👉 ✉️ **adityakotame@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%7C+Full+Stack+%7C+AI%2FML+Developer;Open+to+Software+Engineering+Opportunities;Let's+Build+Something+Great+Together" alt="Typing SVG" />
@@ -94,6 +95,13 @@ I'm thrilled to have you here! Explore my repositories, check out my projects, a
 
 - 🛒 [**Store Rating Web App**](https://github.com/Aditya-Kotame02/Store_Rating_Web_App)  
   A web application that allows users to rate and review stores. Built with Flask, SQLite, and deployed for public access. Focused on user feedback and UI/UX.
+
+---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
