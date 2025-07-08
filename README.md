@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Cloud & Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+%7C+Full+Stack+%7C+AI%2FML+Developer;Open+to+Software+Engineering+Opportunities;Let's+Build+Something+Great+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%7C+Full+Stack+%7C+AI%2FML+Developer;Open+to+Software+Engineering+Opportunities;Let's+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,10 +85,15 @@ I'm thrilled to have you here! Explore my repositories, check out my projects, a
 ---
 
 ## 📌 Featured Projects:
-- 🔍 [ConvertIQ](https://github.com/Aditya-Kotame02/ConvertIQ) — AI platform to analyze leads and suggest business strategies.
-- 🌾 [Smart Farmland](https://github.com/Aditya-Kotame02/Smart-Farmland) — Arduino system for crop safety and animal intrusion detection.
-- 🗃 [Job Portal](https://github.com/Aditya-Kotame02/Job-Portal) — Full-stack job listing and application tracking system.
-- 💬 [IT ChatBot](https://github.com/Aditya-Kotame02/ChatBot-IT-Institute) — IT Training chatbot with course and pricing info.
+
+- 🌫️ [**AI/ML-Based Intelligent De-hazing and De-smoking System**](https://github.com/Aditya-Kotame02/AI-ML-Based-Intelligent-De-hazing-And-De-smoking-System-)  
+  A real-time disaster management system using AI/ML algorithms for visibility enhancement during emergencies. Integrates cloud and social media APIs for real-time data aggregation.
+
+- 💼 [**Edunet Foundation Internship Projects**](https://github.com/Aditya-Kotame02/EdunetFoundation-Internship)  
+  A collection of full stack web development projects built during an internship with Edunet Foundation and EY-GDS. Demonstrates knowledge of frontend, backend, database, and deployment.
+
+- 🛒 [**Store Rating Web App**](https://github.com/Aditya-Kotame02/Store_Rating_Web_App)  
+  A web application that allows users to rate and review stores. Built with Flask, SQLite, and deployed for public access. Focused on user feedback and UI/UX.
 
 ---
 
