@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kotame</h1>
 <h3 align="center">Aspiring Cloud & Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
-Email Me 👉 ✉️ **adityakotame@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  📩 <strong>Email me at</strong> <a href="mailto:adityakotame17@gmail.com">adityakotame17@gmail.com</a> — for collaborations, projects, or just to connect!
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%7C+Full+Stack+%7C+AI%2FML+Developer;Open+to+Software+Engineering+Opportunities;Let's+Build+Something+Great+Together" alt="Typing SVG" />
