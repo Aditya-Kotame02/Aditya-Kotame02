@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kotame</h1>
 <h3 align="center">Aspiring Cloud & Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
 <p align="center">
-  📩 <strong>Email me at</strong> <a href="mailto:adityakotame@gmail.com">adityakotame17@gmail.com</a> — for collaborations, projects, or just to connect!
+  📩 <strong>Email me at</strong> <a href="mailto:adityakotame@gmail.com">adityakotame@gmail.com</a> — for collaborations, projects, or just to connect!
 </p>
 
 <p align="center">
