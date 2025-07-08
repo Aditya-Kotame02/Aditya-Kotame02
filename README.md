@@ -1,8 +1,10 @@
+<!-- Profile README -->
+
 <h1 align="center">Hi 👋, I'm Aditya Kotame</h1>
 <h3 align="center">Aspiring Cloud & Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CSE+Student;Cloud+%7C+Full+Stack+%7C+AI%2FML;Eager+to+Collaborate+on+Innovative+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+%7C+Full+Stack+%7C+AI%2FML+Developer;Open+to+Software+Engineering+Opportunities;Let's+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,12 +16,11 @@ I'm thrilled to have you here! Explore my repositories, check out my projects, a
 ---
 
 # 💫 About Me:
-- 🎓 Final-year CSE student at **Savitribai Phule Pune University**  
-- 💡 Passionate about **Full Stack Development | Cloud Computing | AI/ML**  
+- 👨‍💻 A passionate tech enthusiast actively seeking **Software Engineering** or **Cloud/Full Stack Developer** roles  
+- 💡 Skilled in **Full Stack Development | Cloud Computing | AI/ML**  
 - 🚀 Built and deployed real-world applications using **Java, Python, React, Django, AWS**  
-- 🏆 Hackathon enthusiast with a problem-solving mindset  
-- 👨‍🔬 Loves experimenting, learning, and sharing knowledge  
-- 💪 Living with Type 1 Diabetes — resilient, energetic, and driven!
+- 🏆 Hackathon finalist and collaborative team player with hands-on project experience  
+- 📚 Lifelong learner who enjoys experimenting, building, and solving real-world problems  
 
 ---
 
@@ -30,6 +31,7 @@ I'm thrilled to have you here! Explore my repositories, check out my projects, a
 ---
 
 # 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
